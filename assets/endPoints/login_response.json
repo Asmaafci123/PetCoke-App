@@ -1,0 +1,12 @@
+{
+"flag": true,
+  "message": "تم تسجيل الدخول بنجاح",
+  "user": {
+    "userId": "id123",
+    "cemexId": "cemex123",
+    "password": "password123",
+    "mobileSerial": "mobileserial123",
+    "userName": "userName123",
+    "mobile": "mobile123"
+  }
+}
